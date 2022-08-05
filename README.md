@@ -1,34 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <img width="450" alt="Work in progress" src="https://user-images.githubusercontent.com/51928654/183122433-6fb51f3f-a418-4eda-94ac-d48ef743b1c0.gif">
+</div>
+ 
+<h1 align="center">Oflix 📺</h1>
 
-## Getting Started
+Hey, I'm Osida! Welcome to my Netflix inspired streaming site. To visit the live version, [click here](https://oflix.vercel.app).
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+### 🤝 Connect with me
+<a href="https://www.linkedin.com/in/osida-richards-780524243/"><img align="left" src="https://www.svgrepo.com/show/70809/linkedin.svg" alt="Osida | LinkedIn" width="20px"/></a>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<br/>
+<br/>
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## 💻 Stack
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+- **Database**: [Firebase Cloud Firestore](https://firebase.google.com)
+- **Framework**: [Next.js](https://nextjs.org)
+- **Language**: [Typescript](https://www.typescriptlang.org)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com)
+- **Authentication**: [NextAuth.js](https://next-auth.js.org)
+- **API's**: [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction), [Stripe API](https://stripe.com/docs/api)
+- **Deployment**: [Vercel](https://vercel.com)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 🏗️ To Do's
 
-## Learn More
+- Firebase Cloud Firestore setup
+- Stripe api setup
+- Redesign UI
+- Refactor folder structure
 
-To learn more about Next.js, take a look at the following resources:
+## 👀 Current look
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<div display="flex" justify-content="space-evenly">
+  <img width="350" alt="Current look 1" src="https://user-images.githubusercontent.com/51928654/183146007-26d0062e-4f7b-4759-9867-a5b345184d32.png">
+  <img width="350" alt="Current look 2" src="https://user-images.githubusercontent.com/51928654/183146260-cdf1e5d7-4428-4e9b-9be6-f0c68b0d7638.png">
+</div>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## 💡 Inspiration
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<div display="flex" justify-content="space-evenly">
+  <img width="250" alt="Design 1" src="https://user-images.githubusercontent.com/51928654/183144487-c53c0f72-8fcd-44c9-a224-eae11b05876c.png">
+  <img width="330" alt="Design 2" src="https://user-images.githubusercontent.com/51928654/183144767-2ca5e782-869c-4a3c-a588-6151c3713122.png">
+</div>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## ✒️ Authors
+
+- [@Osida](https://github.com/Osida)
+
+
