@@ -23,7 +23,7 @@ Hey, I'm Osida! Welcome to my Netflix inspired streaming site. To visit the live
 - **API's**: [TMDB API](https://developers.themoviedb.org/3/getting-started/introduction), [Stripe API](https://stripe.com/docs/api)
 - **Deployment**: [Vercel](https://vercel.com)
 
-## 🏗️ To Do's
+## 🌱 I’m currently working on ...
 
 - Firebase Cloud Firestore setup
 - Stripe api setup
